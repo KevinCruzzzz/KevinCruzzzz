@@ -1,16 +1,33 @@
-## Hi there 👋
+# Kevin Alfredo Cruz Sanchez
 
-<!--
-**KevinCruzzzz/KevinCruzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Soy estudiante de Ingeniería en Sistemas  
+- Apasionado por el desarrollo de software y la electrónica  
+- Actualmente trabajando con Raspberry Pi 5, C#, redes y SQL Server  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías que uso
+
+- C#
+- SQL Server
+- Python
+- Raspberry Pi
+- Cisco Packet
+- Excel (Simulación Monte Carlo)
+- Draw.io
+
+---
+
+## Proyectos Destacados
+
+- Simulación de semáforo con Raspberry Pi 5
+- Sistema escolar con C# y SQL Server
+- Proyecto de métodos numéricos con visualización gráfica
+
+---
+
+## Objetivo Profesional
+
+Desarrollarme como ingeniero de software especializado en backend, optimización de procesos y sistemas inteligentes.
+
+---
