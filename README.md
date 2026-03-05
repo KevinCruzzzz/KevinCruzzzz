@@ -1,7 +1,7 @@
 # Kevin Alfredo Cruz Sanchez
 
 - Soy estudiante de Ingeniería en Sistemas  
-- Apasionado por el desarrollo de software y la electrónica  
+- Apasionado por el desarrollo de software y la progrmacion
 - Actualmente trabajando con Raspberry Pi 5, C#, redes y SQL Server  
 
 ---
